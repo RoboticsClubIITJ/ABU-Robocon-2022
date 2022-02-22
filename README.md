@@ -1,2 +1,2 @@
-# ABU-Robocon-AI-2022
-A Repository containing the AI models and driver code for the AI models created, tested and used by IIT Jodhpur in ABU Robocon 2022
+# ABU-Robocon 2021-22
+A Repository containing the CAD, ROS and AI models alongside driver codes, tested and used by IIT Jodhpur in ABU Robocon 2021-22
