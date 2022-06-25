@@ -1,0 +1,38 @@
+<annotation>
+	<folder>team_4</folder>
+	<filename>146.jpg</filename>
+	<path>C:\Users\Devi Pr Maharathy\Downloads\team_4\146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1813</xmin>
+			<ymin>951</ymin>
+			<xmax>1946</xmax>
+			<ymax>1086</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3080</xmin>
+			<ymin>985</ymin>
+			<xmax>3236</xmax>
+			<ymax>1102</ymax>
+		</bndbox>
+	</object>
+</annotation>

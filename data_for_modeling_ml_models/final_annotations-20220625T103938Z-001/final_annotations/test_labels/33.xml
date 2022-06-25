@@ -1,0 +1,26 @@
+<annotation>
+	<folder>team_1</folder>
+	<filename>33.jpg</filename>
+	<path>C:\Users\TANISHQ JOSHI\Desktop\Temporary\akarsh\team_1\33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1814</xmin>
+			<ymin>1217</ymin>
+			<xmax>2098</xmax>
+			<ymax>1493</ymax>
+		</bndbox>
+	</object>
+</annotation>

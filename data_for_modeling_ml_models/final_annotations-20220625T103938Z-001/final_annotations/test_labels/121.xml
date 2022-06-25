@@ -1,0 +1,26 @@
+<annotation>
+	<folder>team_3</folder>
+	<filename>121.jpg</filename>
+	<path>C:\Users\mohit\Downloads\team_3-20220109T121820Z-001\team_3\121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1771</xmin>
+			<ymin>601</ymin>
+			<xmax>1919</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+</annotation>
