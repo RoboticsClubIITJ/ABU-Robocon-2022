@@ -1,0 +1,38 @@
+<annotation>
+	<folder>team_4</folder>
+	<filename>173.jpg</filename>
+	<path>C:\Users\Devi Pr Maharathy\Downloads\team_4\173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1409</xmin>
+			<ymin>799</ymin>
+			<xmax>1572</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1959</xmin>
+			<ymin>306</ymin>
+			<xmax>2043</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

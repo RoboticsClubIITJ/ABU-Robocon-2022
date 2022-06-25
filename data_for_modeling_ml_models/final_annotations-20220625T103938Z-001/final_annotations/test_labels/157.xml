@@ -1,0 +1,26 @@
+<annotation>
+	<folder>team_4</folder>
+	<filename>157.jpg</filename>
+	<path>C:\Users\Devi Pr Maharathy\Downloads\team_4\157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4623</width>
+		<height>3461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1539</xmin>
+			<ymin>546</ymin>
+			<xmax>2296</xmax>
+			<ymax>1307</ymax>
+		</bndbox>
+	</object>
+</annotation>

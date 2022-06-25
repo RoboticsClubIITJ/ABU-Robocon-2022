@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ball_annotations</folder>
+	<filename>5.jpg</filename>
+	<path>C:\Users\shukl\Downloads\ball_annotations\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1612</xmin>
+			<ymin>1508</ymin>
+			<xmax>1796</xmax>
+			<ymax>1700</ymax>
+		</bndbox>
+	</object>
+</annotation>
